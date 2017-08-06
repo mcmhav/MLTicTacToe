@@ -1,0 +1,87 @@
+PODS:
+  - Interactable (0.1.1):
+    - React
+  - React (0.46.4):
+    - React/Core (= 0.46.4)
+  - React/BatchedBridge (0.46.4):
+    - React/Core
+    - React/cxxreact_legacy
+  - React/Core (0.46.4):
+    - Yoga (= 0.46.4.React)
+  - React/cxxreact_legacy (0.46.4):
+    - React/jschelpers_legacy
+  - React/DevSupport (0.46.4):
+    - React/Core
+    - React/RCTWebSocket
+  - React/jschelpers_legacy (0.46.4)
+  - React/RCTActionSheet (0.46.4):
+    - React/Core
+  - React/RCTAnimation (0.46.4):
+    - React/Core
+  - React/RCTGeolocation (0.46.4):
+    - React/Core
+  - React/RCTImage (0.46.4):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.46.4):
+    - React/Core
+  - React/RCTNetwork (0.46.4):
+    - React/Core
+  - React/RCTPushNotification (0.46.4):
+    - React/Core
+  - React/RCTSettings (0.46.4):
+    - React/Core
+  - React/RCTText (0.46.4):
+    - React/Core
+  - React/RCTVibration (0.46.4):
+    - React/Core
+  - React/RCTWebSocket (0.46.4):
+    - React/Core
+  - RNSVG (5.3.2):
+    - React
+  - RNVectorIcons (4.2.0):
+    - React
+  - Yoga (0.46.4.React)
+
+DEPENDENCIES:
+  - Interactable (from `../node_modules/react-native-interactable`)
+  - React/BatchedBridge (from `../node_modules/react-native`)
+  - React/Core (from `../node_modules/react-native`)
+  - React/DevSupport (from `../node_modules/react-native`)
+  - React/RCTActionSheet (from `../node_modules/react-native`)
+  - React/RCTAnimation (from `../node_modules/react-native`)
+  - React/RCTGeolocation (from `../node_modules/react-native`)
+  - React/RCTImage (from `../node_modules/react-native`)
+  - React/RCTLinkingIOS (from `../node_modules/react-native`)
+  - React/RCTNetwork (from `../node_modules/react-native`)
+  - React/RCTPushNotification (from `../node_modules/react-native`)
+  - React/RCTSettings (from `../node_modules/react-native`)
+  - React/RCTText (from `../node_modules/react-native`)
+  - React/RCTVibration (from `../node_modules/react-native`)
+  - React/RCTWebSocket (from `../node_modules/react-native`)
+  - RNSVG (from `../node_modules/react-native-svg`)
+  - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
+  - Yoga (from `../node_modules/react-native/ReactCommon/yoga/Yoga.podspec`)
+
+EXTERNAL SOURCES:
+  Interactable:
+    :path: "../node_modules/react-native-interactable"
+  React:
+    :path: "../node_modules/react-native"
+  RNSVG:
+    :path: "../node_modules/react-native-svg"
+  RNVectorIcons:
+    :path: "../node_modules/react-native-vector-icons"
+  Yoga:
+    :path: "../node_modules/react-native/ReactCommon/yoga/Yoga.podspec"
+
+SPEC CHECKSUMS:
+  Interactable: 65f10c7d2bb9b268f0b98864e9568fbd66d3ffcb
+  React: 596d8774642d10fea20b1f24cc591fcf633f73ad
+  RNSVG: 55d4d49ccc0ccd25a08f4a126fb0b5ee90132965
+  RNVectorIcons: 6d98d83e944d15014d8071dd9819beb094c61133
+  Yoga: 98e24da91afe33bb43fedaf27dafede269c04fe8
+
+PODFILE CHECKSUM: 07e74cd054cc3df310f87a7fc2e524eee0c2c14d
+
+COCOAPODS: 1.2.1
